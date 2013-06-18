@@ -1,4 +1,4 @@
-node-patch [![Build Status](https://secure.travis-ci.org/fengmk2/node-patch.png)](http://travis-ci.org/fengmk2/node-patch) [![Dependencies](http://david-dm.org/fengmk2/node-patch.png)](http://david-dm.org/fengmk2/node-patch)
+node-patch [![Build Status](https://secure.travis-ci.org/fengmk2/node-patch.png)](http://travis-ci.org/fengmk2/node-patch)
 =======
 
 ![logo](https://raw.github.com/fengmk2/node-patch/master/logo.png)
